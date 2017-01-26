@@ -3,4 +3,6 @@ This is a breakout board for the DS1339B IC. This DS1339B is a low power I2C rea
 
 This board is compatible with all other DS1339* models, however the oscillator used is not.
 
+This board was desgined as part of the Sharkduino Project at The College of William and Mary, more information can be found at [sharkduino.com](http://www.sharkduino.com).
+
 This design is released for free under the MIT license, please see license.txt for details.
