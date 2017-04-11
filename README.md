@@ -1,4 +1,5 @@
-#DS1339B Breakout PCB
+DS1339B Breakout PCB
+-----------
 
 This is a breakout board for the DS1339B IC. This DS1339B is a low power I2C real time clock (RTC) with an operating voltage of 3.3V. it has two programmable alarms and an interrupt pin which is broken out on this board.
 
